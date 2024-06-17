@@ -1,0 +1,8 @@
+python-dotenv
+streamlit 
+pymupdf 
+requests 
+beautifulsoup4 
+pydantic 
+educhain
+openai
